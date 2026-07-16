@@ -42,7 +42,7 @@ class MainViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        title = "Boilerplate app"        
+        title = "Sidebar on iPadOS"        
         view.backgroundColor = .systemBackground
         
         addSubviews()
