@@ -7,18 +7,10 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		8EA55C5630092BAE00B1CDE1 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		8EA55C5730092BAE00B1CDE1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8EC3CDA63007E6B600D09B94 /* WWDC24-SidebarOnIPadOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WWDC24-SidebarOnIPadOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		8EC3CDC13007E91D00D09B94 /* Exceptions for "Supporting files" folder in "WWDC24-SidebarOnIPadOS" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 8EC3CDA53007E6B600D09B94 /* WWDC24-SidebarOnIPadOS */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		8EC3CDA83007E6B600D09B94 /* Source */ = {
@@ -28,9 +20,6 @@
 		};
 		8EC3CDC03007E90C00D09B94 /* Supporting files */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				8EC3CDC13007E91D00D09B94 /* Exceptions for "Supporting files" folder in "WWDC24-SidebarOnIPadOS" target */,
-			);
 			path = "Supporting files";
 			sourceTree = "<group>";
 		};
@@ -52,6 +41,8 @@
 			children = (
 				8EC3CDA83007E6B600D09B94 /* Source */,
 				8EC3CDC03007E90C00D09B94 /* Supporting files */,
+				8EA55C5630092BAE00B1CDE1 /* LICENSE */,
+				8EA55C5730092BAE00B1CDE1 /* README.md */,
 				8EC3CDA73007E6B600D09B94 /* Products */,
 			);
 			sourceTree = "<group>";

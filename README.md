@@ -22,3 +22,7 @@ iPad only. Builds on iPhone but the layout isn't tuned for it.
 
 - Xcode 26
 - iPadOS 26.0+
+
+## License
+
+MIT — see [LICENSE](LICENSE).
